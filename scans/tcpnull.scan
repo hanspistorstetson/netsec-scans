@@ -1,0 +1,2305 @@
+# Nmap 7.70 scan initiated Mon Oct  1 14:30:14 2018 as: nmap -sN -o tcpnull.scan 10.50.0.0/16
+Nmap scan report for dl_wc_outdoor_entrance_1.ad.stetson.edu (10.50.2.3)
+Host is up (0.0047s latency).
+All 1000 scanned ports on dl_wc_outdoor_entrance_1.ad.stetson.edu (10.50.2.3) are open|filtered
+
+Nmap scan report for dl_presidents_house_deck.ad.stetson.edu (10.50.2.12)
+Host is up (0.0088s latency).
+All 1000 scanned ports on dl_presidents_house_deck.ad.stetson.edu (10.50.2.12) are open|filtered
+
+Nmap scan report for dl_wc_2nd_222.ad.stetson.edu (10.50.2.28)
+Host is up (0.0052s latency).
+All 1000 scanned ports on dl_wc_2nd_222.ad.stetson.edu (10.50.2.28) are open|filtered
+
+Nmap scan report for dl_wilson_softball.ad.stetson.edu (10.50.2.38)
+Host is up (0.0071s latency).
+All 1000 scanned ports on dl_wilson_softball.ad.stetson.edu (10.50.2.38) are open|filtered
+
+Nmap scan report for dl_wc_2nd_sw.ad.stetson.edu (10.50.2.45)
+Host is up (0.0039s latency).
+All 1000 scanned ports on dl_wc_2nd_sw.ad.stetson.edu (10.50.2.45) are open|filtered
+
+Nmap scan report for dl_wc_3rd_north.ad.stetson.edu (10.50.2.49)
+Host is up (0.0056s latency).
+All 1000 scanned ports on dl_wc_3rd_north.ad.stetson.edu (10.50.2.49) are open|filtered
+
+Nmap scan report for dl_wc_3rd_east.ad.stetson.edu (10.50.2.52)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dl_wc_3rd_east.ad.stetson.edu (10.50.2.52) are open|filtered
+
+Nmap scan report for dl_wc_1st_north.ad.stetson.edu (10.50.2.59)
+Host is up (0.0058s latency).
+All 1000 scanned ports on dl_wc_1st_north.ad.stetson.edu (10.50.2.59) are open|filtered
+
+Nmap scan report for dl_wc_1st_elevator.ad.stetson.edu (10.50.2.60)
+Host is up (0.0065s latency).
+All 1000 scanned ports on dl_wc_1st_elevator.ad.stetson.edu (10.50.2.60) are open|filtered
+
+Nmap scan report for dl_wc_outdoor_south.ad.stetson.edu (10.50.2.67)
+Host is up (0.0031s latency).
+All 1000 scanned ports on dl_wc_outdoor_south.ad.stetson.edu (10.50.2.67) are open|filtered
+
+Nmap scan report for dl_hollis_gym_outdoor_north.ad.stetson.edu (10.50.2.68)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dl_hollis_gym_outdoor_north.ad.stetson.edu (10.50.2.68) are open|filtered
+
+Nmap scan report for dl_wc_1st_lobby.ad.stetson.edu (10.50.2.69)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dl_wc_1st_lobby.ad.stetson.edu (10.50.2.69) are open|filtered
+
+Nmap scan report for dl_gillespie_museum_2nd_floor_north.ad.stetson.edu (10.50.2.70)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dl_gillespie_museum_2nd_floor_north.ad.stetson.edu (10.50.2.70) are open|filtered
+
+Nmap scan report for dl_hollis_gym.ad.stetson.edu (10.50.2.74)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dl_hollis_gym.ad.stetson.edu (10.50.2.74) are open|filtered
+
+Nmap scan report for dl_russian_studies.ad.stetson.edu (10.50.2.83)
+Host is up (0.012s latency).
+All 1000 scanned ports on dl_russian_studies.ad.stetson.edu (10.50.2.83) are open|filtered
+
+Nmap scan report for dl_hr_house.ad.stetson.edu (10.50.2.84)
+Host is up (0.0035s latency).
+All 1000 scanned ports on dl_hr_house.ad.stetson.edu (10.50.2.84) are open|filtered
+
+Nmap scan report for dl_presidents_house_den.ad.stetson.edu (10.50.2.85)
+Host is up (0.0028s latency).
+All 1000 scanned ports on dl_presidents_house_den.ad.stetson.edu (10.50.2.85) are open|filtered
+
+Nmap scan report for dl_mandy_stoll.ad.stetson.edu (10.50.2.86)
+Host is up (0.0065s latency).
+All 1000 scanned ports on dl_mandy_stoll.ad.stetson.edu (10.50.2.86) are open|filtered
+
+Nmap scan report for dl_lbc_213.ad.stetson.edu (10.50.2.103)
+Host is up (0.0089s latency).
+All 1000 scanned ports on dl_lbc_213.ad.stetson.edu (10.50.2.103) are open|filtered
+
+Nmap scan report for dl_handart_2.ad.stetson.edu (10.50.2.127)
+Host is up (0.0035s latency).
+All 1000 scanned ports on dl_handart_2.ad.stetson.edu (10.50.2.127) are open|filtered
+
+Nmap scan report for dl_art_museum_costume_shop.ad.stetson.edu (10.50.2.247)
+Host is up (0.0058s latency).
+All 1000 scanned ports on dl_art_museum_costume_shop.ad.stetson.edu (10.50.2.247) are open|filtered
+
+Nmap scan report for dl_wc_2nd_226.ad.stetson.edu (10.50.2.252)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dl_wc_2nd_226.ad.stetson.edu (10.50.2.252) are open|filtered
+
+Nmap scan report for dl_art_museum_workshop.ad.stetson.edu (10.50.2.253)
+Host is up (0.0034s latency).
+All 1000 scanned ports on dl_art_museum_workshop.ad.stetson.edu (10.50.2.253) are open|filtered
+
+Nmap scan report for dl_cub_commons.ad.stetson.edu (10.50.3.9)
+Host is up (0.0082s latency).
+All 1000 scanned ports on dl_cub_commons.ad.stetson.edu (10.50.3.9) are open|filtered
+
+Nmap scan report for dl_gillespie_museum_2nd_floor_south.ad.stetson.edu (10.50.3.10)
+Host is up (0.0049s latency).
+All 1000 scanned ports on dl_gillespie_museum_2nd_floor_south.ad.stetson.edu (10.50.3.10) are open|filtered
+
+Nmap scan report for dl_wc_3rd_south.ad.stetson.edu (10.50.3.14)
+Host is up (0.0082s latency).
+All 1000 scanned ports on dl_wc_3rd_south.ad.stetson.edu (10.50.3.14) are open|filtered
+
+Nmap scan report for dl_wc_3rd_west.ad.stetson.edu (10.50.3.16)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dl_wc_3rd_west.ad.stetson.edu (10.50.3.16) are open|filtered
+
+Nmap scan report for dl_presidents_house_attic.ad.stetson.edu (10.50.3.42)
+Host is up (0.0070s latency).
+All 1000 scanned ports on dl_presidents_house_attic.ad.stetson.edu (10.50.3.42) are open|filtered
+
+Nmap scan report for dl_wc_2nd_elevator.ad.stetson.edu (10.50.3.43)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dl_wc_2nd_elevator.ad.stetson.edu (10.50.3.43) are open|filtered
+
+Nmap scan report for dl_uhall_office_area.ad.stetson.edu (10.50.3.46)
+Host is up (0.0056s latency).
+All 1000 scanned ports on dl_uhall_office_area.ad.stetson.edu (10.50.3.46) are open|filtered
+
+Nmap scan report for dl_wc_1st_presentation.ad.stetson.edu (10.50.3.62)
+Host is up (0.0032s latency).
+All 1000 scanned ports on dl_wc_1st_presentation.ad.stetson.edu (10.50.3.62) are open|filtered
+
+Nmap scan report for dl_wc_outdoor_entrance_2.ad.stetson.edu (10.50.3.65)
+Host is up (0.0035s latency).
+All 1000 scanned ports on dl_wc_outdoor_entrance_2.ad.stetson.edu (10.50.3.65) are open|filtered
+
+Nmap scan report for dl_wc_outdoor_north_east.ad.stetson.edu (10.50.3.68)
+Host is up (0.0046s latency).
+All 1000 scanned ports on dl_wc_outdoor_north_east.ad.stetson.edu (10.50.3.68) are open|filtered
+
+Nmap scan report for dl_wc_2nd_north_blk.ad.stetson.edu (10.50.3.69)
+Host is up (0.0059s latency).
+All 1000 scanned ports on dl_wc_2nd_north_blk.ad.stetson.edu (10.50.3.69) are open|filtered
+
+Nmap scan report for dl_deland_hall_boardroom.ad.stetson.edu (10.50.3.72)
+Host is up (0.0023s latency).
+All 1000 scanned ports on dl_deland_hall_boardroom.ad.stetson.edu (10.50.3.72) are open|filtered
+
+Nmap scan report for dl_deland_hall_1st_floor_reception.ad.stetson.edu (10.50.3.73)
+Host is up (0.0034s latency).
+All 1000 scanned ports on dl_deland_hall_1st_floor_reception.ad.stetson.edu (10.50.3.73) are open|filtered
+
+Nmap scan report for dl_ccc_house.ad.stetson.edu (10.50.3.74)
+Host is up (0.0055s latency).
+All 1000 scanned ports on dl_ccc_house.ad.stetson.edu (10.50.3.74) are open|filtered
+
+Nmap scan report for dl_rinker_environmental.ad.stetson.edu (10.50.3.76)
+Host is up (0.0062s latency).
+All 1000 scanned ports on dl_rinker_environmental.ad.stetson.edu (10.50.3.76) are open|filtered
+
+Nmap scan report for dl_deland_hall_2nd_floor_hallway.ad.stetson.edu (10.50.3.78)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dl_deland_hall_2nd_floor_hallway.ad.stetson.edu (10.50.3.78) are open|filtered
+
+Nmap scan report for dl_pres_carriage_house.ad.stetson.edu (10.50.3.101)
+Host is up (0.0058s latency).
+All 1000 scanned ports on dl_pres_carriage_house.ad.stetson.edu (10.50.3.101) are open|filtered
+
+Nmap scan report for dl_uhall_lounge.ad.stetson.edu (10.50.3.107)
+Host is up (0.0038s latency).
+All 1000 scanned ports on dl_uhall_lounge.ad.stetson.edu (10.50.3.107) are open|filtered
+
+Nmap scan report for dl_marketing_2nd_floor.ad.stetson.edu (10.50.3.108)
+Host is up (0.0042s latency).
+All 1000 scanned ports on dl_marketing_2nd_floor.ad.stetson.edu (10.50.3.108) are open|filtered
+
+Nmap scan report for aruba-master.ad.stetson.edu (10.50.3.244)
+Host is up (0.0044s latency).
+All 1000 scanned ports on aruba-master.ad.stetson.edu (10.50.3.244) are open|filtered
+
+Nmap scan report for 10.50.3.245
+Host is up (0.0077s latency).
+All 1000 scanned ports on 10.50.3.245 are open|filtered
+
+Nmap scan report for 10.50.3.250
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.3.250 are open|filtered
+
+Nmap scan report for 10.50.3.252
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.3.252 are open|filtered
+
+Nmap scan report for 10.50.3.254
+Host is up (0.010s latency).
+All 1000 scanned ports on 10.50.3.254 are open|filtered
+
+Nmap scan report for 10.50.6.1
+Host is up (0.0028s latency).
+All 1000 scanned ports on 10.50.6.1 are open|filtered
+
+Nmap scan report for dlesxiview01.ad.stetson.edu (10.50.9.4)
+Host is up (0.0025s latency).
+All 1000 scanned ports on dlesxiview01.ad.stetson.edu (10.50.9.4) are open|filtered
+
+Nmap scan report for dlesxiview02.ad.stetson.edu (10.50.9.5)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dlesxiview02.ad.stetson.edu (10.50.9.5) are open|filtered
+
+Nmap scan report for dlesxiview03.ad.stetson.edu (10.50.9.6)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlesxiview03.ad.stetson.edu (10.50.9.6) are open|filtered
+
+Nmap scan report for dlesxiview04.ad.stetson.edu (10.50.9.7)
+Host is up (0.0025s latency).
+All 1000 scanned ports on dlesxiview04.ad.stetson.edu (10.50.9.7) are open|filtered
+
+Nmap scan report for dlesxi01.ad.stetson.edu (10.50.9.10)
+Host is up (0.0041s latency).
+All 1000 scanned ports on dlesxi01.ad.stetson.edu (10.50.9.10) are open|filtered
+
+Nmap scan report for dlesxi02.ad.stetson.edu (10.50.9.11)
+Host is up (0.0056s latency).
+All 1000 scanned ports on dlesxi02.ad.stetson.edu (10.50.9.11) are open|filtered
+
+Nmap scan report for dlesxi03.ad.stetson.edu (10.50.9.12)
+Host is up (0.0061s latency).
+All 1000 scanned ports on dlesxi03.ad.stetson.edu (10.50.9.12) are open|filtered
+
+Nmap scan report for dlucesxi01.ad.stetson.edu (10.50.9.15)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlucesxi01.ad.stetson.edu (10.50.9.15) are open|filtered
+
+Nmap scan report for dlucesxi02.ad.stetson.edu (10.50.9.16)
+Host is up (0.0029s latency).
+All 1000 scanned ports on dlucesxi02.ad.stetson.edu (10.50.9.16) are open|filtered
+
+Nmap scan report for dlesxisolar01.ad.stetson.edu (10.50.9.20)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dlesxisolar01.ad.stetson.edu (10.50.9.20) are open|filtered
+
+Nmap scan report for dlesxisw01.ad.stetson.edu (10.50.9.21)
+Host is up (0.0024s latency).
+All 1000 scanned ports on dlesxisw01.ad.stetson.edu (10.50.9.21) are open|filtered
+
+Nmap scan report for dlesxidc01.ad.stetson.edu (10.50.9.22)
+Host is up (0.0025s latency).
+All 1000 scanned ports on dlesxidc01.ad.stetson.edu (10.50.9.22) are open|filtered
+
+Nmap scan report for 10.50.9.252
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.9.252 are open|filtered
+
+Nmap scan report for 10.50.9.254
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.9.254 are open|filtered
+
+Nmap scan report for bandev-03.ad.stetson.edu (10.50.10.1)
+Host is up (0.0023s latency).
+All 1000 scanned ports on bandev-03.ad.stetson.edu (10.50.10.1) are open|filtered
+
+Nmap scan report for bandev-01.ad.stetson.edu (10.50.10.2)
+Host is up (0.0027s latency).
+All 1000 scanned ports on bandev-01.ad.stetson.edu (10.50.10.2) are open|filtered
+
+Nmap scan report for bandev-04.ad.stetson.edu (10.50.10.4)
+Host is up (0.0038s latency).
+All 1000 scanned ports on bandev-04.ad.stetson.edu (10.50.10.4) are open|filtered
+
+Nmap scan report for bandev-02.ad.stetson.edu (10.50.10.15)
+Host is up (0.0030s latency).
+All 1000 scanned ports on bandev-02.ad.stetson.edu (10.50.10.15) are open|filtered
+
+Nmap scan report for 10.50.10.29
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.50.10.29 are open|filtered
+
+Nmap scan report for 10.50.10.30
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.10.30 are open|filtered
+
+Nmap scan report for dlssodev01.stetson.edu (10.50.10.39)
+Host is up (0.0035s latency).
+All 1000 scanned ports on dlssodev01.stetson.edu (10.50.10.39) are open|filtered
+
+Nmap scan report for sudevmy01.stetson.edu (10.50.10.41)
+Host is up (0.0044s latency).
+All 1000 scanned ports on sudevmy01.stetson.edu (10.50.10.41) are open|filtered
+
+Nmap scan report for dlssodev02.stetson.edu (10.50.10.43)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlssodev02.stetson.edu (10.50.10.43) are open|filtered
+
+Nmap scan report for 10.50.10.61
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.50.10.61 are open|filtered
+
+Nmap scan report for 10.50.10.62
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.10.62 are open|filtered
+
+Nmap scan report for 10.50.10.93
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.10.93 are open|filtered
+
+Nmap scan report for 10.50.10.94
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.10.94 are open|filtered
+
+Nmap scan report for 10.50.10.125
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.10.125 are open|filtered
+
+Nmap scan report for 10.50.10.126
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.10.126 are open|filtered
+
+Nmap scan report for 10.50.10.157
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.10.157 are open|filtered
+
+Nmap scan report for 10.50.11.1
+Host is up (0.0023s latency).
+All 1000 scanned ports on 10.50.11.1 are open|filtered
+
+Nmap scan report for suevimaps01.ad.stetson.edu (10.50.11.2)
+Host is up (0.0027s latency).
+All 1000 scanned ports on suevimaps01.ad.stetson.edu (10.50.11.2) are open|filtered
+
+Nmap scan report for banform2.ad.stetson.edu (10.50.11.3)
+Host is up (0.0028s latency).
+All 1000 scanned ports on banform2.ad.stetson.edu (10.50.11.3) are open|filtered
+
+Nmap scan report for degreeworks2.stetson.edu (10.50.11.4)
+Host is up (0.0038s latency).
+All 1000 scanned ports on degreeworks2.stetson.edu (10.50.11.4) are open|filtered
+
+Nmap scan report for banform3.ad.stetson.edu (10.50.11.5)
+Host is up (0.0035s latency).
+All 1000 scanned ports on banform3.ad.stetson.edu (10.50.11.5) are open|filtered
+
+Nmap scan report for banesm2.stetson.edu (10.50.11.6)
+Host is up (0.0029s latency).
+All 1000 scanned ports on banesm2.stetson.edu (10.50.11.6) are open|filtered
+
+Nmap scan report for dlweblogic01.stetson.edu (10.50.11.7)
+Host is up (0.0024s latency).
+All 1000 scanned ports on dlweblogic01.stetson.edu (10.50.11.7) are open|filtered
+
+Nmap scan report for dlwebapp1.stetson.edu (10.50.11.9)
+Host is up (0.0054s latency).
+All 1000 scanned ports on dlwebapp1.stetson.edu (10.50.11.9) are open|filtered
+
+Nmap scan report for dlwebapp2.stetson.edu (10.50.11.10)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dlwebapp2.stetson.edu (10.50.11.10) are open|filtered
+
+Nmap scan report for dlssoprod01.stetson.edu (10.50.11.11)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dlssoprod01.stetson.edu (10.50.11.11) are open|filtered
+
+Nmap scan report for dlssoprod02.stetson.edu (10.50.11.12)
+Host is up (0.013s latency).
+All 1000 scanned ports on dlssoprod02.stetson.edu (10.50.11.12) are open|filtered
+
+Nmap scan report for dlautoprod01.ad.stetson.edu (10.50.11.13)
+Host is up (0.0068s latency).
+All 1000 scanned ports on dlautoprod01.ad.stetson.edu (10.50.11.13) are open|filtered
+
+Nmap scan report for dlmystetson1.stetson.edu (10.50.11.14)
+Host is up (0.0066s latency).
+All 1000 scanned ports on dlmystetson1.stetson.edu (10.50.11.14) are open|filtered
+
+Nmap scan report for dlmystetson2.stetson.edu (10.50.11.15)
+Host is up (0.010s latency).
+All 1000 scanned ports on dlmystetson2.stetson.edu (10.50.11.15) are open|filtered
+
+Nmap scan report for dlparent1.stetson.edu (10.50.11.16)
+Host is up (0.0041s latency).
+All 1000 scanned ports on dlparent1.stetson.edu (10.50.11.16) are open|filtered
+
+Nmap scan report for dlparent2.stetson.edu (10.50.11.17)
+Host is up (0.0022s latency).
+All 1000 scanned ports on dlparent2.stetson.edu (10.50.11.17) are open|filtered
+
+Nmap scan report for 10.50.11.18
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.11.18 are open|filtered
+
+Nmap scan report for dlban9ss1.stetson.edu (10.50.11.19)
+Host is up (0.0032s latency).
+All 1000 scanned ports on dlban9ss1.stetson.edu (10.50.11.19) are open|filtered
+
+Nmap scan report for dlsorry.stetson.edu (10.50.11.22)
+Host is up (0.0025s latency).
+All 1000 scanned ports on dlsorry.stetson.edu (10.50.11.22) are open|filtered
+
+Nmap scan report for dlcas501.stetson.edu (10.50.11.23)
+Host is up (0.0047s latency).
+All 1000 scanned ports on dlcas501.stetson.edu (10.50.11.23) are open|filtered
+
+Nmap scan report for dlcas502.stetson.edu (10.50.11.24)
+Host is up (0.0044s latency).
+All 1000 scanned ports on dlcas502.stetson.edu (10.50.11.24) are open|filtered
+
+Nmap scan report for banform4.ad.stetson.edu (10.50.11.25)
+Host is up (0.0041s latency).
+All 1000 scanned ports on banform4.ad.stetson.edu (10.50.11.25) are open|filtered
+
+Nmap scan report for dlcas.stetson.edu (10.50.11.26)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dlcas.stetson.edu (10.50.11.26) are open|filtered
+
+Nmap scan report for dlban9prod1.stetson.edu (10.50.11.27)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dlban9prod1.stetson.edu (10.50.11.27) are open|filtered
+
+Nmap scan report for dlban9pprd1.stetson.edu (10.50.11.28)
+Host is up (0.0060s latency).
+All 1000 scanned ports on dlban9pprd1.stetson.edu (10.50.11.28) are open|filtered
+
+Nmap scan report for 10.50.11.29
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.50.11.29 are open|filtered
+
+Nmap scan report for 10.50.11.30
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.11.30 are open|filtered
+
+Nmap scan report for 10.50.11.61
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.50.11.61 are open|filtered
+
+Nmap scan report for 10.50.11.62
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.11.62 are open|filtered
+
+Nmap scan report for su35966.ad.stetson.edu (10.50.11.77)
+Host is up (0.0065s latency).
+All 1000 scanned ports on su35966.ad.stetson.edu (10.50.11.77) are open|filtered
+
+Nmap scan report for su35679.ad.stetson.edu (10.50.11.78)
+Host is up (0.0031s latency).
+All 1000 scanned ports on su35679.ad.stetson.edu (10.50.11.78) are open|filtered
+
+Nmap scan report for dl36156.ad.stetson.edu (10.50.11.79)
+Host is up (0.0026s latency).
+All 1000 scanned ports on dl36156.ad.stetson.edu (10.50.11.79) are open|filtered
+
+Nmap scan report for 10.50.11.93
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.11.93 are open|filtered
+
+Nmap scan report for 10.50.11.94
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.11.94 are open|filtered
+
+Nmap scan report for 10.50.11.97
+Host is up (0.0066s latency).
+All 1000 scanned ports on 10.50.11.97 are open|filtered
+
+Nmap scan report for dlwsus02.ad.stetson.edu (10.50.12.2)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlwsus02.ad.stetson.edu (10.50.12.2) are open|filtered
+
+Nmap scan report for dlclm.ad.stetson.edu (10.50.12.3)
+Host is up (0.0028s latency).
+All 1000 scanned ports on dlclm.ad.stetson.edu (10.50.12.3) are open|filtered
+
+Nmap scan report for supcoipmgt.ad.stetson.edu (10.50.12.4)
+Host is up (0.0024s latency).
+All 1000 scanned ports on supcoipmgt.ad.stetson.edu (10.50.12.4) are open|filtered
+
+Nmap scan report for dlapp30.ad.stetson.edu (10.50.12.6)
+Host is up (0.0029s latency).
+All 1000 scanned ports on dlapp30.ad.stetson.edu (10.50.12.6) are open|filtered
+
+Nmap scan report for dlfileserv04.ad.stetson.edu (10.50.12.7)
+Host is up (0.0048s latency).
+All 1000 scanned ports on dlfileserv04.ad.stetson.edu (10.50.12.7) are open|filtered
+
+Nmap scan report for dlseccenter.ad.stetson.edu (10.50.12.8)
+Host is up (0.0027s latency).
+All 1000 scanned ports on dlseccenter.ad.stetson.edu (10.50.12.8) are open|filtered
+
+Nmap scan report for 10.50.12.9
+Host is up (0.0053s latency).
+All 1000 scanned ports on 10.50.12.9 are open|filtered
+
+Nmap scan report for dlvs6file.ad.stetson.edu (10.50.12.10)
+Host is up (0.0042s latency).
+All 1000 scanned ports on dlvs6file.ad.stetson.edu (10.50.12.10) are open|filtered
+
+Nmap scan report for dlkeysystems01.ad.stetson.edu (10.50.12.11)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dlkeysystems01.ad.stetson.edu (10.50.12.11) are open|filtered
+
+Nmap scan report for 10.50.12.12
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.12.12 are open|filtered
+
+Nmap scan report for dlfileserv05.ad.stetson.edu (10.50.12.14)
+Host is up (0.0028s latency).
+All 1000 scanned ports on dlfileserv05.ad.stetson.edu (10.50.12.14) are open|filtered
+
+Nmap scan report for dlgit01.stetson.edu (10.50.12.15)
+Host is up (0.010s latency).
+All 1000 scanned ports on dlgit01.stetson.edu (10.50.12.15) are open|filtered
+
+Nmap scan report for 10.50.12.16
+Host is up (0.0028s latency).
+All 1000 scanned ports on 10.50.12.16 are open|filtered
+
+Nmap scan report for 10.50.12.17
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.50.12.17 are open|filtered
+
+Nmap scan report for dlairwave.ad.stetson.edu (10.50.12.20)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dlairwave.ad.stetson.edu (10.50.12.20) are open|filtered
+
+Nmap scan report for 10.50.12.21
+Host is up (0.0023s latency).
+All 1000 scanned ports on 10.50.12.21 are open|filtered
+
+Nmap scan report for dlfileserv01.ad.stetson.edu (10.50.12.23)
+Host is up (0.0047s latency).
+All 1000 scanned ports on dlfileserv01.ad.stetson.edu (10.50.12.23) are open|filtered
+
+Nmap scan report for dlfileserv02.ad.stetson.edu (10.50.12.24)
+Host is up (0.0047s latency).
+All 1000 scanned ports on dlfileserv02.ad.stetson.edu (10.50.12.24) are open|filtered
+
+Nmap scan report for dlfileserv.ad.stetson.edu (10.50.12.25)
+Host is up (0.0044s latency).
+All 1000 scanned ports on dlfileserv.ad.stetson.edu (10.50.12.25) are open|filtered
+
+Nmap scan report for dlfileshare.ad.stetson.edu (10.50.12.26)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dlfileshare.ad.stetson.edu (10.50.12.26) are open|filtered
+
+Nmap scan report for dlfileserv06.ad.stetson.edu (10.50.12.27)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dlfileserv06.ad.stetson.edu (10.50.12.27) are open|filtered
+
+Nmap scan report for my.stetson.edu (10.50.12.28)
+Host is up (0.0030s latency).
+All 1000 scanned ports on my.stetson.edu (10.50.12.28) are open|filtered
+
+Nmap scan report for ssb.stetson.edu (10.50.12.31)
+Host is up (0.0039s latency).
+All 1000 scanned ports on ssb.stetson.edu (10.50.12.31) are open|filtered
+
+Nmap scan report for 10.50.12.32
+Host is up (0.015s latency).
+All 1000 scanned ports on 10.50.12.32 are open|filtered
+
+Nmap scan report for cas.stetson.edu (10.50.12.33)
+Host is up (0.015s latency).
+All 1000 scanned ports on cas.stetson.edu (10.50.12.33) are open|filtered
+
+Nmap scan report for dlhighres.stetson.edu (10.50.12.35)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dlhighres.stetson.edu (10.50.12.35) are open|filtered
+
+Nmap scan report for dlapp32.ad.stetson.edu (10.50.12.40)
+Host is up (0.0031s latency).
+All 1000 scanned ports on dlapp32.ad.stetson.edu (10.50.12.40) are open|filtered
+
+Nmap scan report for dlfortianalyzer.ad.stetson.edu (10.50.12.41)
+Host is up (0.0038s latency).
+All 1000 scanned ports on dlfortianalyzer.ad.stetson.edu (10.50.12.41) are open|filtered
+
+Nmap scan report for dlmedia01.ad.stetson.edu (10.50.12.42)
+Host is up (0.0023s latency).
+All 1000 scanned ports on dlmedia01.ad.stetson.edu (10.50.12.42) are open|filtered
+
+Nmap scan report for casdev.ad.stetson.edu (10.50.12.46)
+Host is up (0.0036s latency).
+All 1000 scanned ports on casdev.ad.stetson.edu (10.50.12.46) are open|filtered
+
+Nmap scan report for dlapp130.ad.stetson.edu (10.50.12.52)
+Host is up (0.0039s latency).
+All 1000 scanned ports on dlapp130.ad.stetson.edu (10.50.12.52) are open|filtered
+
+Nmap scan report for banner-test.stetson.edu (10.50.12.53)
+Host is up (0.0040s latency).
+All 1000 scanned ports on banner-test.stetson.edu (10.50.12.53) are open|filtered
+
+Nmap scan report for dlacctcreate.ad.stetson.edu (10.50.12.54)
+Host is up (0.0032s latency).
+All 1000 scanned ports on dlacctcreate.ad.stetson.edu (10.50.12.54) are open|filtered
+
+Nmap scan report for 10.50.12.55
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.50.12.55 are open|filtered
+
+Nmap scan report for dlinsight02.stetson.edu (10.50.12.57)
+Host is up (0.0044s latency).
+All 1000 scanned ports on dlinsight02.stetson.edu (10.50.12.57) are open|filtered
+
+Nmap scan report for dlex01.ad.stetson.edu (10.50.12.58)
+Host is up (0.0027s latency).
+All 1000 scanned ports on dlex01.ad.stetson.edu (10.50.12.58) are open|filtered
+
+Nmap scan report for 10.50.12.59
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.50.12.59 are open|filtered
+
+Nmap scan report for dlviewvc01.ad.stetson.edu (10.50.12.60)
+Host is up (0.0025s latency).
+All 1000 scanned ports on dlviewvc01.ad.stetson.edu (10.50.12.60) are open|filtered
+
+Nmap scan report for dlviewcomp01.ad.stetson.edu (10.50.12.61)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dlviewcomp01.ad.stetson.edu (10.50.12.61) are open|filtered
+
+Nmap scan report for dlviewdb01.ad.stetson.edu (10.50.12.62)
+Host is up (0.0031s latency).
+All 1000 scanned ports on dlviewdb01.ad.stetson.edu (10.50.12.62) are open|filtered
+
+Nmap scan report for dlviewmgr01.ad.stetson.edu (10.50.12.63)
+Host is up (0.0034s latency).
+All 1000 scanned ports on dlviewmgr01.ad.stetson.edu (10.50.12.63) are open|filtered
+
+Nmap scan report for dlviewmgr02.stetson.edu (10.50.12.64)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dlviewmgr02.stetson.edu (10.50.12.64) are open|filtered
+
+Nmap scan report for dlviewextmgr01.ad.stetson.edu (10.50.12.65)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dlviewextmgr01.ad.stetson.edu (10.50.12.65) are open|filtered
+
+Nmap scan report for dlviewextmgr02.ad.stetson.edu (10.50.12.66)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dlviewextmgr02.ad.stetson.edu (10.50.12.66) are open|filtered
+
+Nmap scan report for dlviewshares01.ad.stetson.edu (10.50.12.67)
+Host is up (0.0029s latency).
+All 1000 scanned ports on dlviewshares01.ad.stetson.edu (10.50.12.67) are open|filtered
+
+Nmap scan report for dlview.stetson.edu (10.50.12.70)
+Host is up (0.0027s latency).
+All 1000 scanned ports on dlview.stetson.edu (10.50.12.70) are open|filtered
+
+Nmap scan report for banner.stetson.edu (10.50.12.71)
+Host is up (0.0024s latency).
+All 1000 scanned ports on banner.stetson.edu (10.50.12.71) are open|filtered
+
+Nmap scan report for external02.stetson.edu (10.50.12.72)
+Host is up (0.0028s latency).
+All 1000 scanned ports on external02.stetson.edu (10.50.12.72) are open|filtered
+
+Nmap scan report for 10.50.12.73
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.50.12.73 are open|filtered
+
+Nmap scan report for *.ezproxy.stetson.edu (10.50.12.74)
+Host is up (0.0031s latency).
+All 1000 scanned ports on *.ezproxy.stetson.edu (10.50.12.74) are open|filtered
+
+Nmap scan report for dldvsport01.ad.stetson.edu (10.50.12.76)
+Host is up (0.0027s latency).
+All 1000 scanned ports on dldvsport01.ad.stetson.edu (10.50.12.76) are open|filtered
+
+Nmap scan report for dlmealcard01.ad.stetson.edu (10.50.12.78)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlmealcard01.ad.stetson.edu (10.50.12.78) are open|filtered
+
+Nmap scan report for secretserver01.ad.stetson.edu (10.50.12.79)
+Host is up (0.0048s latency).
+All 1000 scanned ports on secretserver01.ad.stetson.edu (10.50.12.79) are open|filtered
+
+Nmap scan report for sulabsql.ad.stetson.edu (10.50.12.80)
+Host is up (0.0034s latency).
+All 1000 scanned ports on sulabsql.ad.stetson.edu (10.50.12.80) are open|filtered
+
+Nmap scan report for dlacctcreate2.ad.stetson.edu (10.50.12.81)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dlacctcreate2.ad.stetson.edu (10.50.12.81) are open|filtered
+
+Nmap scan report for dlagm01.ad.stetson.edu (10.50.12.82)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dlagm01.ad.stetson.edu (10.50.12.82) are open|filtered
+
+Nmap scan report for DLDC04.ad.stetson.edu (10.50.12.83)
+Host is up (0.0037s latency).
+All 1000 scanned ports on DLDC04.ad.stetson.edu (10.50.12.83) are open|filtered
+
+Nmap scan report for DLDC05.ad.stetson.edu (10.50.12.84)
+Host is up (0.0071s latency).
+All 1000 scanned ports on DLDC05.ad.stetson.edu (10.50.12.84) are open|filtered
+
+Nmap scan report for dlwww8.stetson.edu (10.50.12.85)
+Host is up (0.0028s latency).
+All 1000 scanned ports on dlwww8.stetson.edu (10.50.12.85) are open|filtered
+
+Nmap scan report for banner2.stetson.edu (10.50.12.86)
+Host is up (0.0043s latency).
+All 1000 scanned ports on banner2.stetson.edu (10.50.12.86) are open|filtered
+
+Nmap scan report for rancher-test.stetson.edu (10.50.12.88)
+Host is up (0.0044s latency).
+All 1000 scanned ports on rancher-test.stetson.edu (10.50.12.88) are open|filtered
+
+Nmap scan report for 10.50.12.90
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.12.90 are open|filtered
+
+Nmap scan report for 10.50.12.92
+Host is up (0.0070s latency).
+All 1000 scanned ports on 10.50.12.92 are open|filtered
+
+Nmap scan report for dlxeres01.stetson.edu (10.50.12.97)
+Host is up (0.0041s latency).
+All 1000 scanned ports on dlxeres01.stetson.edu (10.50.12.97) are open|filtered
+
+Nmap scan report for dllog01.stetson.edu (10.50.12.98)
+Host is up (0.0028s latency).
+All 1000 scanned ports on dllog01.stetson.edu (10.50.12.98) are open|filtered
+
+Nmap scan report for 10.50.12.99
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.50.12.99 are open|filtered
+
+Nmap scan report for 10.50.12.125
+Host is up (0.0028s latency).
+All 1000 scanned ports on 10.50.12.125 are open|filtered
+
+Nmap scan report for itsupport.stetson.edu (10.50.12.126)
+Host is up (0.0032s latency).
+All 1000 scanned ports on itsupport.stetson.edu (10.50.12.126) are open|filtered
+
+Nmap scan report for dlapplic01.ad.stetson.edu (10.50.12.127)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dlapplic01.ad.stetson.edu (10.50.12.127) are open|filtered
+
+Nmap scan report for dlapp40.ad.stetson.edu (10.50.12.128)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dlapp40.ad.stetson.edu (10.50.12.128) are open|filtered
+
+Nmap scan report for 10.50.12.186
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.12.186 are open|filtered
+
+Nmap scan report for 10.50.12.252
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.50.12.252 are open|filtered
+
+Nmap scan report for 10.50.12.254
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.12.254 are open|filtered
+
+Nmap scan report for dldevoracle1.stetson.edu (10.50.13.1)
+Host is up (0.0033s latency).
+All 1000 scanned ports on dldevoracle1.stetson.edu (10.50.13.1) are open|filtered
+
+Nmap scan report for dldevbdm01.ad.stetson.edu (10.50.13.2)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dldevbdm01.ad.stetson.edu (10.50.13.2) are open|filtered
+
+Nmap scan report for 10.50.13.6
+Host is up (0.0033s latency).
+All 1000 scanned ports on 10.50.13.6 are open|filtered
+
+Nmap scan report for 10.50.13.10
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.50.13.10 are open|filtered
+
+Nmap scan report for dldevwww27.stetson.edu (10.50.13.49)
+Host is up (0.0030s latency).
+All 1000 scanned ports on dldevwww27.stetson.edu (10.50.13.49) are open|filtered
+
+Nmap scan report for dldevwds.ad.stetson.edu (10.50.13.126)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dldevwds.ad.stetson.edu (10.50.13.126) are open|filtered
+
+Nmap scan report for 10.50.13.202
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.13.202 are open|filtered
+
+Nmap scan report for dldevwww8.stetson.edu (10.50.13.205)
+Host is up (0.0056s latency).
+All 1000 scanned ports on dldevwww8.stetson.edu (10.50.13.205) are open|filtered
+
+Nmap scan report for dlkroll2.ad.stetson.edu (10.50.13.206)
+Host is up (0.0078s latency).
+All 1000 scanned ports on dlkroll2.ad.stetson.edu (10.50.13.206) are open|filtered
+
+Nmap scan report for 10.50.13.252
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.50.13.252 are open|filtered
+
+Nmap scan report for 10.50.13.254
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.13.254 are open|filtered
+
+Nmap scan report for prntrelease-04.ad.stetson.edu (10.50.23.1)
+Host is up (0.0045s latency).
+All 1000 scanned ports on prntrelease-04.ad.stetson.edu (10.50.23.1) are open|filtered
+
+Nmap scan report for lbcsobavc-43.ad.stetson.edu (10.50.23.2)
+Host is up (0.0038s latency).
+All 1000 scanned ports on lbcsobavc-43.ad.stetson.edu (10.50.23.2) are open|filtered
+
+Nmap scan report for lbcsobavc-25.ad.stetson.edu (10.50.23.4)
+Host is up (0.0043s latency).
+All 1000 scanned ports on lbcsobavc-25.ad.stetson.edu (10.50.23.4) are open|filtered
+
+Nmap scan report for lbcsobavc-16.ad.stetson.edu (10.50.23.5)
+Host is up (0.0043s latency).
+All 1000 scanned ports on lbcsobavc-16.ad.stetson.edu (10.50.23.5) are open|filtered
+
+Nmap scan report for lbcsobavc-23.ad.stetson.edu (10.50.23.6)
+Host is up (0.0056s latency).
+All 1000 scanned ports on lbcsobavc-23.ad.stetson.edu (10.50.23.6) are open|filtered
+
+Nmap scan report for lbcsobavc-14.ad.stetson.edu (10.50.23.7)
+Host is up (0.0054s latency).
+All 1000 scanned ports on lbcsobavc-14.ad.stetson.edu (10.50.23.7) are open|filtered
+
+Nmap scan report for dbmain-33.ad.stetson.edu (10.50.23.9)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dbmain-33.ad.stetson.edu (10.50.23.9) are open|filtered
+
+Nmap scan report for lbcll-01.ad.stetson.edu (10.50.23.10)
+Host is up (0.0033s latency).
+All 1000 scanned ports on lbcll-01.ad.stetson.edu (10.50.23.10) are open|filtered
+
+Nmap scan report for lbcsobavc-10.ad.stetson.edu (10.50.23.11)
+Host is up (0.0029s latency).
+All 1000 scanned ports on lbcsobavc-10.ad.stetson.edu (10.50.23.11) are open|filtered
+
+Nmap scan report for lbcll-06.ad.stetson.edu (10.50.23.12)
+Host is up (0.0057s latency).
+All 1000 scanned ports on lbcll-06.ad.stetson.edu (10.50.23.12) are open|filtered
+
+Nmap scan report for lbcll-07.ad.stetson.edu (10.50.23.14)
+Host is up (0.0052s latency).
+All 1000 scanned ports on lbcll-07.ad.stetson.edu (10.50.23.14) are open|filtered
+
+Nmap scan report for lbcll-11.ad.stetson.edu (10.50.23.15)
+Host is up (0.0049s latency).
+All 1000 scanned ports on lbcll-11.ad.stetson.edu (10.50.23.15) are open|filtered
+
+Nmap scan report for lbcll-14.ad.stetson.edu (10.50.23.16)
+Host is up (0.0049s latency).
+All 1000 scanned ports on lbcll-14.ad.stetson.edu (10.50.23.16) are open|filtered
+
+Nmap scan report for lbcsobavc-18.ad.stetson.edu (10.50.23.17)
+Host is up (0.0046s latency).
+All 1000 scanned ports on lbcsobavc-18.ad.stetson.edu (10.50.23.17) are open|filtered
+
+Nmap scan report for dbmain-12.ad.stetson.edu (10.50.23.18)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dbmain-12.ad.stetson.edu (10.50.23.18) are open|filtered
+
+Nmap scan report for lbcll-12.ad.stetson.edu (10.50.23.19)
+Host is up (0.0068s latency).
+All 1000 scanned ports on lbcll-12.ad.stetson.edu (10.50.23.19) are open|filtered
+
+Nmap scan report for lbcsobavc-31.ad.stetson.edu (10.50.23.20)
+Host is up (0.0065s latency).
+All 1000 scanned ports on lbcsobavc-31.ad.stetson.edu (10.50.23.20) are open|filtered
+
+Nmap scan report for phthon-11.ad.stetson.edu (10.50.23.23)
+Host is up (0.0040s latency).
+All 1000 scanned ports on phthon-11.ad.stetson.edu (10.50.23.23) are open|filtered
+
+Nmap scan report for lbcsobavc-53.ad.stetson.edu (10.50.23.24)
+Host is up (0.0074s latency).
+All 1000 scanned ports on lbcsobavc-53.ad.stetson.edu (10.50.23.24) are open|filtered
+
+Nmap scan report for lbcsobavc-15.ad.stetson.edu (10.50.23.28)
+Host is up (0.059s latency).
+All 1000 scanned ports on lbcsobavc-15.ad.stetson.edu (10.50.23.28) are open|filtered
+
+Nmap scan report for phthon-2.ad.stetson.edu (10.50.23.30)
+Host is up (0.034s latency).
+All 1000 scanned ports on phthon-2.ad.stetson.edu (10.50.23.30) are open|filtered
+
+Nmap scan report for lbcsobavc-27.ad.stetson.edu (10.50.23.31)
+Host is up (0.034s latency).
+All 1000 scanned ports on lbcsobavc-27.ad.stetson.edu (10.50.23.31) are open|filtered
+
+Nmap scan report for phthon-10.ad.stetson.edu (10.50.23.32)
+Host is up (0.0044s latency).
+All 1000 scanned ports on phthon-10.ad.stetson.edu (10.50.23.32) are open|filtered
+
+Nmap scan report for lbcsobavc-12.ad.stetson.edu (10.50.23.33)
+Host is up (0.0039s latency).
+All 1000 scanned ports on lbcsobavc-12.ad.stetson.edu (10.50.23.33) are open|filtered
+
+Nmap scan report for phthon-4.ad.stetson.edu (10.50.23.34)
+Host is up (0.0039s latency).
+All 1000 scanned ports on phthon-4.ad.stetson.edu (10.50.23.34) are open|filtered
+
+Nmap scan report for phthon-6.ad.stetson.edu (10.50.23.35)
+Host is up (0.0037s latency).
+All 1000 scanned ports on phthon-6.ad.stetson.edu (10.50.23.35) are open|filtered
+
+Nmap scan report for lbcsobavc-007.ad.stetson.edu (10.50.23.36)
+Host is up (0.0056s latency).
+All 1000 scanned ports on lbcsobavc-007.ad.stetson.edu (10.50.23.36) are open|filtered
+
+Nmap scan report for phthon-8.ad.stetson.edu (10.50.23.37)
+Host is up (0.0051s latency).
+All 1000 scanned ports on phthon-8.ad.stetson.edu (10.50.23.37) are open|filtered
+
+Nmap scan report for lbcsobavc-20.ad.stetson.edu (10.50.23.38)
+Host is up (0.0060s latency).
+All 1000 scanned ports on lbcsobavc-20.ad.stetson.edu (10.50.23.38) are open|filtered
+
+Nmap scan report for db015-04.ad.stetson.edu (10.50.23.39)
+Host is up (0.0030s latency).
+All 1000 scanned ports on db015-04.ad.stetson.edu (10.50.23.39) are open|filtered
+
+Nmap scan report for lbcsobavc-003.ad.stetson.edu (10.50.23.41)
+Host is up (0.0042s latency).
+All 1000 scanned ports on lbcsobavc-003.ad.stetson.edu (10.50.23.41) are open|filtered
+
+Nmap scan report for lbcsobavc-33.ad.stetson.edu (10.50.23.42)
+Host is up (0.0069s latency).
+All 1000 scanned ports on lbcsobavc-33.ad.stetson.edu (10.50.23.42) are open|filtered
+
+Nmap scan report for db015-05.ad.stetson.edu (10.50.23.43)
+Host is up (0.0066s latency).
+All 1000 scanned ports on db015-05.ad.stetson.edu (10.50.23.43) are open|filtered
+
+Nmap scan report for lbcsobavc-30.ad.stetson.edu (10.50.23.44)
+Host is up (0.0068s latency).
+All 1000 scanned ports on lbcsobavc-30.ad.stetson.edu (10.50.23.44) are open|filtered
+
+Nmap scan report for uvaclub-02.ad.stetson.edu (10.50.23.45)
+Host is up (0.0034s latency).
+All 1000 scanned ports on uvaclub-02.ad.stetson.edu (10.50.23.45) are open|filtered
+
+Nmap scan report for db015-14.ad.stetson.edu (10.50.23.47)
+Host is up (0.0054s latency).
+All 1000 scanned ports on db015-14.ad.stetson.edu (10.50.23.47) are open|filtered
+
+Nmap scan report for lbcsobavc-40.ad.stetson.edu (10.50.23.48)
+Host is up (0.0065s latency).
+All 1000 scanned ports on lbcsobavc-40.ad.stetson.edu (10.50.23.48) are open|filtered
+
+Nmap scan report for lbcsobavc-39.ad.stetson.edu (10.50.23.49)
+Host is up (0.0039s latency).
+All 1000 scanned ports on lbcsobavc-39.ad.stetson.edu (10.50.23.49) are open|filtered
+
+Nmap scan report for chaudoin-02.ad.stetson.edu (10.50.23.50)
+Host is up (0.0059s latency).
+All 1000 scanned ports on chaudoin-02.ad.stetson.edu (10.50.23.50) are open|filtered
+
+Nmap scan report for uvaclub-06.ad.stetson.edu (10.50.23.51)
+Host is up (0.0039s latency).
+All 1000 scanned ports on uvaclub-06.ad.stetson.edu (10.50.23.51) are open|filtered
+
+Nmap scan report for lbcsobavc-004.ad.stetson.edu (10.50.23.52)
+Host is up (0.0046s latency).
+All 1000 scanned ports on lbcsobavc-004.ad.stetson.edu (10.50.23.52) are open|filtered
+
+Nmap scan report for lbcsobavc-24.ad.stetson.edu (10.50.23.53)
+Host is up (0.0041s latency).
+All 1000 scanned ports on lbcsobavc-24.ad.stetson.edu (10.50.23.53) are open|filtered
+
+Nmap scan report for lbcsobavc-32.ad.stetson.edu (10.50.23.54)
+Host is up (0.0038s latency).
+All 1000 scanned ports on lbcsobavc-32.ad.stetson.edu (10.50.23.54) are open|filtered
+
+Nmap scan report for lbcsobavc-008.ad.stetson.edu (10.50.23.56)
+Host is up (0.0063s latency).
+All 1000 scanned ports on lbcsobavc-008.ad.stetson.edu (10.50.23.56) are open|filtered
+
+Nmap scan report for dbmain-18.ad.stetson.edu (10.50.23.57)
+Host is up (0.0050s latency).
+All 1000 scanned ports on dbmain-18.ad.stetson.edu (10.50.23.57) are open|filtered
+
+Nmap scan report for dbmain-43.ad.stetson.edu (10.50.23.58)
+Host is up (0.0048s latency).
+All 1000 scanned ports on dbmain-43.ad.stetson.edu (10.50.23.58) are open|filtered
+
+Nmap scan report for lbcsobavc-34.ad.stetson.edu (10.50.23.59)
+Host is up (0.0060s latency).
+All 1000 scanned ports on lbcsobavc-34.ad.stetson.edu (10.50.23.59) are open|filtered
+
+Nmap scan report for lbcsobavc-11.ad.stetson.edu (10.50.23.60)
+Host is up (0.0032s latency).
+All 1000 scanned ports on lbcsobavc-11.ad.stetson.edu (10.50.23.60) are open|filtered
+
+Nmap scan report for dbmain-23.ad.stetson.edu (10.50.23.61)
+Host is up (0.0044s latency).
+All 1000 scanned ports on dbmain-23.ad.stetson.edu (10.50.23.61) are open|filtered
+
+Nmap scan report for dbmain-32.ad.stetson.edu (10.50.23.62)
+Host is up (0.0041s latency).
+All 1000 scanned ports on dbmain-32.ad.stetson.edu (10.50.23.62) are open|filtered
+
+Nmap scan report for lbcsobavc-08.ad.stetson.edu (10.50.23.64)
+Host is up (0.0048s latency).
+All 1000 scanned ports on lbcsobavc-08.ad.stetson.edu (10.50.23.64) are open|filtered
+
+Nmap scan report for lbcsobavc-01.ad.stetson.edu (10.50.23.65)
+Host is up (0.0061s latency).
+All 1000 scanned ports on lbcsobavc-01.ad.stetson.edu (10.50.23.65) are open|filtered
+
+Nmap scan report for dbmain-36.ad.stetson.edu (10.50.23.66)
+Host is up (0.0052s latency).
+All 1000 scanned ports on dbmain-36.ad.stetson.edu (10.50.23.66) are open|filtered
+
+Nmap scan report for lbcsobavc-001.ad.stetson.edu (10.50.23.67)
+Host is up (0.0056s latency).
+All 1000 scanned ports on lbcsobavc-001.ad.stetson.edu (10.50.23.67) are open|filtered
+
+Nmap scan report for 10.50.23.69
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.23.69 are open|filtered
+
+Nmap scan report for 10.50.23.70
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.50.23.70 are open|filtered
+
+Nmap scan report for 10.50.23.71
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.23.71 are open|filtered
+
+Nmap scan report for prntrelease-01.ad.stetson.edu (10.50.23.72)
+Host is up (0.0044s latency).
+All 1000 scanned ports on prntrelease-01.ad.stetson.edu (10.50.23.72) are open|filtered
+
+Nmap scan report for dbmain-01.ad.stetson.edu (10.50.23.73)
+Host is up (0.0074s latency).
+All 1000 scanned ports on dbmain-01.ad.stetson.edu (10.50.23.73) are open|filtered
+
+Nmap scan report for 10.50.23.74
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.23.74 are open|filtered
+
+Nmap scan report for 10.50.23.75
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.23.75 are open|filtered
+
+Nmap scan report for 10.50.23.76
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.50.23.76 are open|filtered
+
+Nmap scan report for 10.50.23.77
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.23.77 are open|filtered
+
+Nmap scan report for 10.50.23.78
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.23.78 are open|filtered
+
+Nmap scan report for dbmain-07.ad.stetson.edu (10.50.23.79)
+Host is up (0.0046s latency).
+All 1000 scanned ports on dbmain-07.ad.stetson.edu (10.50.23.79) are open|filtered
+
+Nmap scan report for 10.50.23.80
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.23.80 are open|filtered
+
+Nmap scan report for lbcsobavc-022.ad.stetson.edu (10.50.23.82)
+Host is up (0.0053s latency).
+All 1000 scanned ports on lbcsobavc-022.ad.stetson.edu (10.50.23.82) are open|filtered
+
+Nmap scan report for 10.50.23.83
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.23.83 are open|filtered
+
+Nmap scan report for 10.50.23.85
+Host is up (0.0062s latency).
+All 1000 scanned ports on 10.50.23.85 are open|filtered
+
+Nmap scan report for 10.50.23.86
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.23.86 are open|filtered
+
+Nmap scan report for 10.50.23.87
+Host is up (0.0068s latency).
+All 1000 scanned ports on 10.50.23.87 are open|filtered
+
+Nmap scan report for 10.50.23.88
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.23.88 are open|filtered
+
+Nmap scan report for dbmain-05.ad.stetson.edu (10.50.23.89)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dbmain-05.ad.stetson.edu (10.50.23.89) are open|filtered
+
+Nmap scan report for dbmain-02.ad.stetson.edu (10.50.23.90)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dbmain-02.ad.stetson.edu (10.50.23.90) are open|filtered
+
+Nmap scan report for 10.50.23.91
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.50.23.91 are open|filtered
+
+Nmap scan report for 10.50.23.93
+Host is up (0.0075s latency).
+All 1000 scanned ports on 10.50.23.93 are open|filtered
+
+Nmap scan report for dbmain-37.ad.stetson.edu (10.50.23.94)
+Host is up (0.0072s latency).
+All 1000 scanned ports on dbmain-37.ad.stetson.edu (10.50.23.94) are open|filtered
+
+Nmap scan report for uvaclub-05.ad.stetson.edu (10.50.23.98)
+Host is up (0.0046s latency).
+All 1000 scanned ports on uvaclub-05.ad.stetson.edu (10.50.23.98) are open|filtered
+
+Nmap scan report for dbmain-42.ad.stetson.edu (10.50.23.103)
+Host is up (0.0068s latency).
+All 1000 scanned ports on dbmain-42.ad.stetson.edu (10.50.23.103) are open|filtered
+
+Nmap scan report for dbmain-04.ad.stetson.edu (10.50.23.106)
+Host is up (0.0059s latency).
+All 1000 scanned ports on dbmain-04.ad.stetson.edu (10.50.23.106) are open|filtered
+
+Nmap scan report for 10.50.23.107
+Host is up (0.0050s latency).
+All 1000 scanned ports on 10.50.23.107 are open|filtered
+
+Nmap scan report for 10.50.23.108
+Host is up (0.0066s latency).
+All 1000 scanned ports on 10.50.23.108 are open|filtered
+
+Nmap scan report for 10.50.23.109
+Host is up (0.0096s latency).
+All 1000 scanned ports on 10.50.23.109 are open|filtered
+
+Nmap scan report for dbmain-16.ad.stetson.edu (10.50.23.110)
+Host is up (0.0093s latency).
+All 1000 scanned ports on dbmain-16.ad.stetson.edu (10.50.23.110) are open|filtered
+
+Nmap scan report for lbcsobavc-06.ad.stetson.edu (10.50.23.111)
+Host is up (0.0048s latency).
+All 1000 scanned ports on lbcsobavc-06.ad.stetson.edu (10.50.23.111) are open|filtered
+
+Nmap scan report for lbcsobavc-26.ad.stetson.edu (10.50.23.112)
+Host is up (0.0044s latency).
+All 1000 scanned ports on lbcsobavc-26.ad.stetson.edu (10.50.23.112) are open|filtered
+
+Nmap scan report for 10.50.23.116
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.23.116 are open|filtered
+
+Nmap scan report for lbcsobavc-22.ad.stetson.edu (10.50.23.119)
+Host is up (0.0039s latency).
+All 1000 scanned ports on lbcsobavc-22.ad.stetson.edu (10.50.23.119) are open|filtered
+
+Nmap scan report for lbcsobavc-41.ad.stetson.edu (10.50.23.122)
+Host is up (0.0052s latency).
+All 1000 scanned ports on lbcsobavc-41.ad.stetson.edu (10.50.23.122) are open|filtered
+
+Nmap scan report for dbmain-17.ad.stetson.edu (10.50.23.123)
+Host is up (0.0040s latency).
+All 1000 scanned ports on dbmain-17.ad.stetson.edu (10.50.23.123) are open|filtered
+
+Nmap scan report for lbcsobavc-19.ad.stetson.edu (10.50.23.125)
+Host is up (0.0045s latency).
+All 1000 scanned ports on lbcsobavc-19.ad.stetson.edu (10.50.23.125) are open|filtered
+
+Nmap scan report for dbmain-08.ad.stetson.edu (10.50.23.129)
+Host is up (0.0049s latency).
+All 1000 scanned ports on dbmain-08.ad.stetson.edu (10.50.23.129) are open|filtered
+
+Nmap scan report for lbcsobavc-17.ad.stetson.edu (10.50.23.131)
+Host is up (0.0047s latency).
+All 1000 scanned ports on lbcsobavc-17.ad.stetson.edu (10.50.23.131) are open|filtered
+
+Nmap scan report for lbcsobavc-42.ad.stetson.edu (10.50.23.133)
+Host is up (0.0066s latency).
+All 1000 scanned ports on lbcsobavc-42.ad.stetson.edu (10.50.23.133) are open|filtered
+
+Nmap scan report for lbcll-02.ad.stetson.edu (10.50.23.136)
+Host is up (0.0077s latency).
+All 1000 scanned ports on lbcll-02.ad.stetson.edu (10.50.23.136) are open|filtered
+
+Nmap scan report for lbcll-05.ad.stetson.edu (10.50.23.137)
+Host is up (0.0074s latency).
+All 1000 scanned ports on lbcll-05.ad.stetson.edu (10.50.23.137) are open|filtered
+
+Nmap scan report for lbcll-08.ad.stetson.edu (10.50.23.138)
+Host is up (0.0055s latency).
+All 1000 scanned ports on lbcll-08.ad.stetson.edu (10.50.23.138) are open|filtered
+
+Nmap scan report for phthon-7.ad.stetson.edu (10.50.23.139)
+Host is up (0.0051s latency).
+All 1000 scanned ports on phthon-7.ad.stetson.edu (10.50.23.139) are open|filtered
+
+Nmap scan report for lbcll-09.ad.stetson.edu (10.50.23.140)
+Host is up (0.0058s latency).
+All 1000 scanned ports on lbcll-09.ad.stetson.edu (10.50.23.140) are open|filtered
+
+Nmap scan report for lbcll-10.ad.stetson.edu (10.50.23.142)
+Host is up (0.0066s latency).
+All 1000 scanned ports on lbcll-10.ad.stetson.edu (10.50.23.142) are open|filtered
+
+Nmap scan report for chaudoin-01.ad.stetson.edu (10.50.23.144)
+Host is up (0.0069s latency).
+All 1000 scanned ports on chaudoin-01.ad.stetson.edu (10.50.23.144) are open|filtered
+
+Nmap scan report for lbcsobavc-28.ad.stetson.edu (10.50.23.146)
+Host is up (0.0044s latency).
+All 1000 scanned ports on lbcsobavc-28.ad.stetson.edu (10.50.23.146) are open|filtered
+
+Nmap scan report for lbcll-15.ad.stetson.edu (10.50.23.147)
+Host is up (0.0051s latency).
+All 1000 scanned ports on lbcll-15.ad.stetson.edu (10.50.23.147) are open|filtered
+
+Nmap scan report for dbmain-40.ad.stetson.edu (10.50.23.148)
+Host is up (0.0049s latency).
+All 1000 scanned ports on dbmain-40.ad.stetson.edu (10.50.23.148) are open|filtered
+
+Nmap scan report for phthon-3.ad.stetson.edu (10.50.23.149)
+Host is up (0.0061s latency).
+All 1000 scanned ports on phthon-3.ad.stetson.edu (10.50.23.149) are open|filtered
+
+Nmap scan report for phthon-5.ad.stetson.edu (10.50.23.151)
+Host is up (0.0060s latency).
+All 1000 scanned ports on phthon-5.ad.stetson.edu (10.50.23.151) are open|filtered
+
+Nmap scan report for phthon-1.ad.stetson.edu (10.50.23.152)
+Host is up (0.0035s latency).
+All 1000 scanned ports on phthon-1.ad.stetson.edu (10.50.23.152) are open|filtered
+
+Nmap scan report for phthon-9.ad.stetson.edu (10.50.23.153)
+Host is up (0.0032s latency).
+All 1000 scanned ports on phthon-9.ad.stetson.edu (10.50.23.153) are open|filtered
+
+Nmap scan report for db015-13.ad.stetson.edu (10.50.23.154)
+Host is up (0.0039s latency).
+All 1000 scanned ports on db015-13.ad.stetson.edu (10.50.23.154) are open|filtered
+
+Nmap scan report for chaudoin-03.ad.stetson.edu (10.50.23.155)
+Host is up (0.0036s latency).
+All 1000 scanned ports on chaudoin-03.ad.stetson.edu (10.50.23.155) are open|filtered
+
+Nmap scan report for lbcll-13.ad.stetson.edu (10.50.23.156)
+Host is up (0.0032s latency).
+All 1000 scanned ports on lbcll-13.ad.stetson.edu (10.50.23.156) are open|filtered
+
+Nmap scan report for lbcsobavc-02.ad.stetson.edu (10.50.23.157)
+Host is up (0.0035s latency).
+All 1000 scanned ports on lbcsobavc-02.ad.stetson.edu (10.50.23.157) are open|filtered
+
+Nmap scan report for lbcsobavc-03.ad.stetson.edu (10.50.23.158)
+Host is up (0.0062s latency).
+All 1000 scanned ports on lbcsobavc-03.ad.stetson.edu (10.50.23.158) are open|filtered
+
+Nmap scan report for db015-15.ad.stetson.edu (10.50.23.159)
+Host is up (0.0049s latency).
+All 1000 scanned ports on db015-15.ad.stetson.edu (10.50.23.159) are open|filtered
+
+Nmap scan report for lbcsobavc-35.ad.stetson.edu (10.50.23.160)
+Host is up (0.0036s latency).
+All 1000 scanned ports on lbcsobavc-35.ad.stetson.edu (10.50.23.160) are open|filtered
+
+Nmap scan report for lbcll-03.ad.stetson.edu (10.50.23.162)
+Host is up (0.0028s latency).
+All 1000 scanned ports on lbcll-03.ad.stetson.edu (10.50.23.162) are open|filtered
+
+Nmap scan report for db015-01.ad.stetson.edu (10.50.23.165)
+Host is up (0.0036s latency).
+All 1000 scanned ports on db015-01.ad.stetson.edu (10.50.23.165) are open|filtered
+
+Nmap scan report for lbcsobavc-29.ad.stetson.edu (10.50.23.166)
+Host is up (0.0048s latency).
+All 1000 scanned ports on lbcsobavc-29.ad.stetson.edu (10.50.23.166) are open|filtered
+
+Nmap scan report for lbcsobavc-05.ad.stetson.edu (10.50.23.167)
+Host is up (0.0045s latency).
+All 1000 scanned ports on lbcsobavc-05.ad.stetson.edu (10.50.23.167) are open|filtered
+
+Nmap scan report for lbcsobavc-21.ad.stetson.edu (10.50.23.168)
+Host is up (0.0044s latency).
+All 1000 scanned ports on lbcsobavc-21.ad.stetson.edu (10.50.23.168) are open|filtered
+
+Nmap scan report for db015-03.ad.stetson.edu (10.50.23.169)
+Host is up (0.0039s latency).
+All 1000 scanned ports on db015-03.ad.stetson.edu (10.50.23.169) are open|filtered
+
+Nmap scan report for db015-02.ad.stetson.edu (10.50.23.170)
+Host is up (0.0036s latency).
+All 1000 scanned ports on db015-02.ad.stetson.edu (10.50.23.170) are open|filtered
+
+Nmap scan report for lbcsobavc-13.ad.stetson.edu (10.50.23.171)
+Host is up (0.0058s latency).
+All 1000 scanned ports on lbcsobavc-13.ad.stetson.edu (10.50.23.171) are open|filtered
+
+Nmap scan report for db015-06.ad.stetson.edu (10.50.23.172)
+Host is up (0.0037s latency).
+All 1000 scanned ports on db015-06.ad.stetson.edu (10.50.23.172) are open|filtered
+
+Nmap scan report for db015-10.ad.stetson.edu (10.50.23.173)
+Host is up (0.0034s latency).
+All 1000 scanned ports on db015-10.ad.stetson.edu (10.50.23.173) are open|filtered
+
+Nmap scan report for dbmain-15.ad.stetson.edu (10.50.23.175)
+Host is up (0.0052s latency).
+All 1000 scanned ports on dbmain-15.ad.stetson.edu (10.50.23.175) are open|filtered
+
+Nmap scan report for db015-09.ad.stetson.edu (10.50.23.176)
+Host is up (0.0075s latency).
+All 1000 scanned ports on db015-09.ad.stetson.edu (10.50.23.176) are open|filtered
+
+Nmap scan report for lbcsobavc-006.ad.stetson.edu (10.50.23.178)
+Host is up (0.0044s latency).
+All 1000 scanned ports on lbcsobavc-006.ad.stetson.edu (10.50.23.178) are open|filtered
+
+Nmap scan report for dbmain-41.ad.stetson.edu (10.50.23.179)
+Host is up (0.0036s latency).
+All 1000 scanned ports on dbmain-41.ad.stetson.edu (10.50.23.179) are open|filtered
+
+Nmap scan report for lbcsobavc-37.ad.stetson.edu (10.50.23.180)
+Host is up (0.0052s latency).
+All 1000 scanned ports on lbcsobavc-37.ad.stetson.edu (10.50.23.180) are open|filtered
+
+Nmap scan report for lbcsobavc-005.ad.stetson.edu (10.50.23.181)
+Host is up (0.0043s latency).
+All 1000 scanned ports on lbcsobavc-005.ad.stetson.edu (10.50.23.181) are open|filtered
+
+Nmap scan report for db015-12.ad.stetson.edu (10.50.23.183)
+Host is up (0.0054s latency).
+All 1000 scanned ports on db015-12.ad.stetson.edu (10.50.23.183) are open|filtered
+
+Nmap scan report for lbcsobavc-011.ad.stetson.edu (10.50.23.184)
+Host is up (0.0043s latency).
+All 1000 scanned ports on lbcsobavc-011.ad.stetson.edu (10.50.23.184) are open|filtered
+
+Nmap scan report for lbcsobavc-38.ad.stetson.edu (10.50.23.186)
+Host is up (0.0046s latency).
+All 1000 scanned ports on lbcsobavc-38.ad.stetson.edu (10.50.23.186) are open|filtered
+
+Nmap scan report for dbmain-34.ad.stetson.edu (10.50.23.187)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dbmain-34.ad.stetson.edu (10.50.23.187) are open|filtered
+
+Nmap scan report for lbcsobavc-013.ad.stetson.edu (10.50.23.189)
+Host is up (0.010s latency).
+All 1000 scanned ports on lbcsobavc-013.ad.stetson.edu (10.50.23.189) are open|filtered
+
+Nmap scan report for lbcsobavc-010.ad.stetson.edu (10.50.23.190)
+Host is up (0.0099s latency).
+All 1000 scanned ports on lbcsobavc-010.ad.stetson.edu (10.50.23.190) are open|filtered
+
+Nmap scan report for dbmain-22.ad.stetson.edu (10.50.23.191)
+Host is up (0.0054s latency).
+All 1000 scanned ports on dbmain-22.ad.stetson.edu (10.50.23.191) are open|filtered
+
+Nmap scan report for dbmain-14.ad.stetson.edu (10.50.23.192)
+Host is up (0.0048s latency).
+All 1000 scanned ports on dbmain-14.ad.stetson.edu (10.50.23.192) are open|filtered
+
+Nmap scan report for 10.50.23.193
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.23.193 are open|filtered
+
+Nmap scan report for lbcsobavc-012.ad.stetson.edu (10.50.23.194)
+Host is up (0.0031s latency).
+All 1000 scanned ports on lbcsobavc-012.ad.stetson.edu (10.50.23.194) are open|filtered
+
+Nmap scan report for 10.50.23.195
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.23.195 are open|filtered
+
+Nmap scan report for 10.50.23.196
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.23.196 are open|filtered
+
+Nmap scan report for dbmain-03.ad.stetson.edu (10.50.23.197)
+Host is up (0.0043s latency).
+All 1000 scanned ports on dbmain-03.ad.stetson.edu (10.50.23.197) are open|filtered
+
+Nmap scan report for 10.50.23.198
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.23.198 are open|filtered
+
+Nmap scan report for 10.50.23.199
+Host is up (0.0026s latency).
+All 1000 scanned ports on 10.50.23.199 are open|filtered
+
+Nmap scan report for 10.50.23.200
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.23.200 are open|filtered
+
+Nmap scan report for dbmain-35.ad.stetson.edu (10.50.23.202)
+Host is up (0.0035s latency).
+All 1000 scanned ports on dbmain-35.ad.stetson.edu (10.50.23.202) are open|filtered
+
+Nmap scan report for 10.50.23.204
+Host is up (0.0033s latency).
+All 1000 scanned ports on 10.50.23.204 are open|filtered
+
+Nmap scan report for dbmain-10.ad.stetson.edu (10.50.23.205)
+Host is up (0.0029s latency).
+All 1000 scanned ports on dbmain-10.ad.stetson.edu (10.50.23.205) are open|filtered
+
+Nmap scan report for 10.50.23.206
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.23.206 are open|filtered
+
+Nmap scan report for 10.50.23.207
+Host is up (0.0063s latency).
+All 1000 scanned ports on 10.50.23.207 are open|filtered
+
+Nmap scan report for 10.50.23.208
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.23.208 are open|filtered
+
+Nmap scan report for dbmain-09.ad.stetson.edu (10.50.23.209)
+Host is up (0.0054s latency).
+All 1000 scanned ports on dbmain-09.ad.stetson.edu (10.50.23.209) are open|filtered
+
+Nmap scan report for 10.50.23.210
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.23.210 are open|filtered
+
+Nmap scan report for dbmain-06.ad.stetson.edu (10.50.23.212)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dbmain-06.ad.stetson.edu (10.50.23.212) are open|filtered
+
+Nmap scan report for 10.50.23.215
+Host is up (0.0064s latency).
+All 1000 scanned ports on 10.50.23.215 are open|filtered
+
+Nmap scan report for dbmain-11.ad.stetson.edu (10.50.23.217)
+Host is up (0.0061s latency).
+All 1000 scanned ports on dbmain-11.ad.stetson.edu (10.50.23.217) are open|filtered
+
+Nmap scan report for 10.50.23.219
+Host is up (0.0053s latency).
+All 1000 scanned ports on 10.50.23.219 are open|filtered
+
+Nmap scan report for dbmain-29.ad.stetson.edu (10.50.23.220)
+Host is up (0.0059s latency).
+All 1000 scanned ports on dbmain-29.ad.stetson.edu (10.50.23.220) are open|filtered
+
+Nmap scan report for 10.50.23.221
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.23.221 are open|filtered
+
+Nmap scan report for 10.50.23.233
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.23.233 are open|filtered
+
+Nmap scan report for 10.50.23.234
+Host is up (0.0070s latency).
+All 1000 scanned ports on 10.50.23.234 are open|filtered
+
+Nmap scan report for 10.50.23.235
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.23.235 are open|filtered
+
+Nmap scan report for 10.50.23.237
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.50.23.237 are open|filtered
+
+Nmap scan report for 10.50.23.240
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.23.240 are open|filtered
+
+Nmap scan report for 10.50.23.245
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.23.245 are open|filtered
+
+Nmap scan report for 10.50.23.253
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.23.253 are open|filtered
+
+Nmap scan report for 10.50.23.254
+Host is up (0.028s latency).
+All 1000 scanned ports on 10.50.23.254 are open|filtered
+
+Nmap scan report for 10.50.24.2
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.24.2 are open|filtered
+
+Nmap scan report for 10.50.24.3
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.24.3 are open|filtered
+
+Nmap scan report for 10.50.24.4
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.24.4 are open|filtered
+
+Nmap scan report for 10.50.24.6
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.24.6 are open|filtered
+
+Nmap scan report for 10.50.24.7
+Host is up (0.0054s latency).
+All 1000 scanned ports on 10.50.24.7 are open|filtered
+
+Nmap scan report for 10.50.24.8
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.24.8 are open|filtered
+
+Nmap scan report for 10.50.24.15
+Host is up (0.0068s latency).
+All 1000 scanned ports on 10.50.24.15 are open|filtered
+
+Nmap scan report for 10.50.24.20
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.24.20 are open|filtered
+
+Nmap scan report for clb109-04.ad.stetson.edu (10.50.24.24)
+Host is up (0.0074s latency).
+All 1000 scanned ports on clb109-04.ad.stetson.edu (10.50.24.24) are open|filtered
+
+Nmap scan report for fh311-07.ad.stetson.edu (10.50.24.29)
+Host is up (0.059s latency).
+All 1000 scanned ports on fh311-07.ad.stetson.edu (10.50.24.29) are open|filtered
+
+Nmap scan report for 10.50.24.30
+Host is up (0.034s latency).
+All 1000 scanned ports on 10.50.24.30 are open|filtered
+
+Nmap scan report for 10.50.24.33
+Host is up (0.0062s latency).
+All 1000 scanned ports on 10.50.24.33 are open|filtered
+
+Nmap scan report for 10.50.24.34
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.24.34 are open|filtered
+
+Nmap scan report for 10.50.24.35
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.35 are open|filtered
+
+Nmap scan report for 10.50.24.36
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.24.36 are open|filtered
+
+Nmap scan report for 10.50.24.37
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.24.37 are open|filtered
+
+Nmap scan report for 10.50.24.38
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.24.38 are open|filtered
+
+Nmap scan report for vlab-15.ad.stetson.edu (10.50.24.39)
+Host is up (0.0030s latency).
+All 1000 scanned ports on vlab-15.ad.stetson.edu (10.50.24.39) are open|filtered
+
+Nmap scan report for lbc315-12.ad.stetson.edu (10.50.24.40)
+Host is up (0.0045s latency).
+All 1000 scanned ports on lbc315-12.ad.stetson.edu (10.50.24.40) are open|filtered
+
+Nmap scan report for 10.50.24.42
+Host is up (0.0069s latency).
+All 1000 scanned ports on 10.50.24.42 are open|filtered
+
+Nmap scan report for 10.50.24.43
+Host is up (0.0066s latency).
+All 1000 scanned ports on 10.50.24.43 are open|filtered
+
+Nmap scan report for 10.50.24.45
+Host is up (0.0078s latency).
+All 1000 scanned ports on 10.50.24.45 are open|filtered
+
+Nmap scan report for 10.50.24.46
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.24.46 are open|filtered
+
+Nmap scan report for 10.50.24.47
+Host is up (0.0042s latency).
+All 1000 scanned ports on 10.50.24.47 are open|filtered
+
+Nmap scan report for 10.50.24.50
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.24.50 are open|filtered
+
+Nmap scan report for 10.50.24.52
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.24.52 are open|filtered
+
+Nmap scan report for lbc315-18.ad.stetson.edu (10.50.24.53)
+Host is up (0.0041s latency).
+All 1000 scanned ports on lbc315-18.ad.stetson.edu (10.50.24.53) are open|filtered
+
+Nmap scan report for vlab-16.ad.stetson.edu (10.50.24.54)
+Host is up (0.0038s latency).
+All 1000 scanned ports on vlab-16.ad.stetson.edu (10.50.24.54) are open|filtered
+
+Nmap scan report for vlab-13.ad.stetson.edu (10.50.24.55)
+Host is up (0.0065s latency).
+All 1000 scanned ports on vlab-13.ad.stetson.edu (10.50.24.55) are open|filtered
+
+Nmap scan report for 10.50.24.56
+Host is up (0.0063s latency).
+All 1000 scanned ports on 10.50.24.56 are open|filtered
+
+Nmap scan report for 10.50.24.57
+Host is up (0.0050s latency).
+All 1000 scanned ports on 10.50.24.57 are open|filtered
+
+Nmap scan report for 10.50.24.58
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.24.58 are open|filtered
+
+Nmap scan report for 10.50.24.59
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.24.59 are open|filtered
+
+Nmap scan report for 10.50.24.60
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.50.24.60 are open|filtered
+
+Nmap scan report for 10.50.24.61
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.50.24.61 are open|filtered
+
+Nmap scan report for fh311-14.ad.stetson.edu (10.50.24.62)
+Host is up (0.0041s latency).
+All 1000 scanned ports on fh311-14.ad.stetson.edu (10.50.24.62) are open|filtered
+
+Nmap scan report for fh311-16.ad.stetson.edu (10.50.24.63)
+Host is up (0.0079s latency).
+All 1000 scanned ports on fh311-16.ad.stetson.edu (10.50.24.63) are open|filtered
+
+Nmap scan report for 10.50.24.66
+Host is up (0.0052s latency).
+All 1000 scanned ports on 10.50.24.66 are open|filtered
+
+Nmap scan report for 10.50.24.67
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.24.67 are open|filtered
+
+Nmap scan report for fh311-23.ad.stetson.edu (10.50.24.68)
+Host is up (0.011s latency).
+All 1000 scanned ports on fh311-23.ad.stetson.edu (10.50.24.68) are open|filtered
+
+Nmap scan report for 10.50.24.73
+Host is up (0.0073s latency).
+All 1000 scanned ports on 10.50.24.73 are open|filtered
+
+Nmap scan report for 10.50.24.74
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.24.74 are open|filtered
+
+Nmap scan report for 10.50.24.75
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.24.75 are open|filtered
+
+Nmap scan report for clb109-27.ad.stetson.edu (10.50.24.76)
+Host is up (0.0027s latency).
+All 1000 scanned ports on clb109-27.ad.stetson.edu (10.50.24.76) are open|filtered
+
+Nmap scan report for 10.50.24.77
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.24.77 are open|filtered
+
+Nmap scan report for 10.50.24.78
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.78 are open|filtered
+
+Nmap scan report for 10.50.24.79
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.24.79 are open|filtered
+
+Nmap scan report for dh101-v20.ad.stetson.edu (10.50.24.80)
+Host is up (0.0061s latency).
+All 1000 scanned ports on dh101-v20.ad.stetson.edu (10.50.24.80) are open|filtered
+
+Nmap scan report for 10.50.24.82
+Host is up (0.0053s latency).
+All 1000 scanned ports on 10.50.24.82 are open|filtered
+
+Nmap scan report for 10.50.24.83
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.24.83 are open|filtered
+
+Nmap scan report for dh101-v26.ad.stetson.edu (10.50.24.84)
+Host is up (0.0069s latency).
+All 1000 scanned ports on dh101-v26.ad.stetson.edu (10.50.24.84) are open|filtered
+
+Nmap scan report for 10.50.24.85
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.24.85 are open|filtered
+
+Nmap scan report for 10.50.24.86
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.24.86 are open|filtered
+
+Nmap scan report for 10.50.24.87
+Host is up (0.0068s latency).
+All 1000 scanned ports on 10.50.24.87 are open|filtered
+
+Nmap scan report for 10.50.24.88
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.24.88 are open|filtered
+
+Nmap scan report for 10.50.24.89
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.50.24.89 are open|filtered
+
+Nmap scan report for 10.50.24.90
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.24.90 are open|filtered
+
+Nmap scan report for lbc315-11.ad.stetson.edu (10.50.24.91)
+Host is up (0.0040s latency).
+All 1000 scanned ports on lbc315-11.ad.stetson.edu (10.50.24.91) are open|filtered
+
+Nmap scan report for lbc315-08.ad.stetson.edu (10.50.24.92)
+Host is up (0.0050s latency).
+All 1000 scanned ports on lbc315-08.ad.stetson.edu (10.50.24.92) are open|filtered
+
+Nmap scan report for lbc315-02.ad.stetson.edu (10.50.24.93)
+Host is up (0.0075s latency).
+All 1000 scanned ports on lbc315-02.ad.stetson.edu (10.50.24.93) are open|filtered
+
+Nmap scan report for lbc315-01.ad.stetson.edu (10.50.24.94)
+Host is up (0.0072s latency).
+All 1000 scanned ports on lbc315-01.ad.stetson.edu (10.50.24.94) are open|filtered
+
+Nmap scan report for lbc315-13.ad.stetson.edu (10.50.24.95)
+Host is up (0.0069s latency).
+All 1000 scanned ports on lbc315-13.ad.stetson.edu (10.50.24.95) are open|filtered
+
+Nmap scan report for lbc315-07.ad.stetson.edu (10.50.24.96)
+Host is up (0.0045s latency).
+All 1000 scanned ports on lbc315-07.ad.stetson.edu (10.50.24.96) are open|filtered
+
+Nmap scan report for 10.50.24.115
+Host is up (0.0054s latency).
+All 1000 scanned ports on 10.50.24.115 are open|filtered
+
+Nmap scan report for 10.50.24.118
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.24.118 are open|filtered
+
+Nmap scan report for 10.50.24.119
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.24.119 are open|filtered
+
+Nmap scan report for 10.50.24.124
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.24.124 are open|filtered
+
+Nmap scan report for 10.50.24.139
+Host is up (0.0053s latency).
+All 1000 scanned ports on 10.50.24.139 are open|filtered
+
+Nmap scan report for 10.50.24.140
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.24.140 are open|filtered
+
+Nmap scan report for 10.50.24.143
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.24.143 are open|filtered
+
+Nmap scan report for 10.50.24.148
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.24.148 are open|filtered
+
+Nmap scan report for 10.50.24.149
+Host is up (0.0061s latency).
+All 1000 scanned ports on 10.50.24.149 are open|filtered
+
+Nmap scan report for 10.50.24.155
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.24.155 are open|filtered
+
+Nmap scan report for 10.50.24.156
+Host is up (0.0067s latency).
+All 1000 scanned ports on 10.50.24.156 are open|filtered
+
+Nmap scan report for 10.50.24.157
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.24.157 are open|filtered
+
+Nmap scan report for 10.50.24.158
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.24.158 are open|filtered
+
+Nmap scan report for 10.50.24.160
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.160 are open|filtered
+
+Nmap scan report for 10.50.24.161
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.24.161 are open|filtered
+
+Nmap scan report for fh311-08.ad.stetson.edu (10.50.24.162)
+Host is up (0.0048s latency).
+All 1000 scanned ports on fh311-08.ad.stetson.edu (10.50.24.162) are open|filtered
+
+Nmap scan report for 10.50.24.163
+Host is up (0.0060s latency).
+All 1000 scanned ports on 10.50.24.163 are open|filtered
+
+Nmap scan report for sh134-13.ad.stetson.edu (10.50.24.164)
+Host is up (0.0049s latency).
+All 1000 scanned ports on sh134-13.ad.stetson.edu (10.50.24.164) are open|filtered
+
+Nmap scan report for 10.50.24.165
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.165 are open|filtered
+
+Nmap scan report for 10.50.24.167
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.24.167 are open|filtered
+
+Nmap scan report for 10.50.24.169
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.24.169 are open|filtered
+
+Nmap scan report for 10.50.24.170
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.170 are open|filtered
+
+Nmap scan report for lbc315-19.ad.stetson.edu (10.50.24.175)
+Host is up (0.0051s latency).
+All 1000 scanned ports on lbc315-19.ad.stetson.edu (10.50.24.175) are open|filtered
+
+Nmap scan report for 10.50.24.177
+Host is up (0.0046s latency).
+All 1000 scanned ports on 10.50.24.177 are open|filtered
+
+Nmap scan report for lbc315-20.ad.stetson.edu (10.50.24.178)
+Host is up (0.0043s latency).
+All 1000 scanned ports on lbc315-20.ad.stetson.edu (10.50.24.178) are open|filtered
+
+Nmap scan report for 10.50.24.179
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.24.179 are open|filtered
+
+Nmap scan report for 10.50.24.181
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.24.181 are open|filtered
+
+Nmap scan report for 10.50.24.182
+Host is up (0.0057s latency).
+All 1000 scanned ports on 10.50.24.182 are open|filtered
+
+Nmap scan report for 10.50.24.183
+Host is up (0.0054s latency).
+All 1000 scanned ports on 10.50.24.183 are open|filtered
+
+Nmap scan report for 10.50.24.185
+Host is up (0.0050s latency).
+All 1000 scanned ports on 10.50.24.185 are open|filtered
+
+Nmap scan report for lbc315-21.ad.stetson.edu (10.50.24.189)
+Host is up (0.010s latency).
+All 1000 scanned ports on lbc315-21.ad.stetson.edu (10.50.24.189) are open|filtered
+
+Nmap scan report for lbc315-04.ad.stetson.edu (10.50.24.190)
+Host is up (0.0098s latency).
+All 1000 scanned ports on lbc315-04.ad.stetson.edu (10.50.24.190) are open|filtered
+
+Nmap scan report for 10.50.24.191
+Host is up (0.0053s latency).
+All 1000 scanned ports on 10.50.24.191 are open|filtered
+
+Nmap scan report for 10.50.24.192
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.24.192 are open|filtered
+
+Nmap scan report for 10.50.24.193
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.24.193 are open|filtered
+
+Nmap scan report for lbc315-09.ad.stetson.edu (10.50.24.194)
+Host is up (0.0031s latency).
+All 1000 scanned ports on lbc315-09.ad.stetson.edu (10.50.24.194) are open|filtered
+
+Nmap scan report for 10.50.24.195
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.24.195 are open|filtered
+
+Nmap scan report for lbc315-06.ad.stetson.edu (10.50.24.196)
+Host is up (0.0045s latency).
+All 1000 scanned ports on lbc315-06.ad.stetson.edu (10.50.24.196) are open|filtered
+
+Nmap scan report for 10.50.24.197
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.50.24.197 are open|filtered
+
+Nmap scan report for 10.50.24.198
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.50.24.198 are open|filtered
+
+Nmap scan report for 10.50.24.200
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.24.200 are open|filtered
+
+Nmap scan report for 10.50.24.201
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.24.201 are open|filtered
+
+Nmap scan report for 10.50.24.203
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.24.203 are open|filtered
+
+Nmap scan report for 10.50.24.205
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.50.24.205 are open|filtered
+
+Nmap scan report for 10.50.24.206
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.24.206 are open|filtered
+
+Nmap scan report for 10.50.24.208
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.24.208 are open|filtered
+
+Nmap scan report for 10.50.24.209
+Host is up (0.0054s latency).
+All 1000 scanned ports on 10.50.24.209 are open|filtered
+
+Nmap scan report for dh101-v19.ad.stetson.edu (10.50.24.211)
+Host is up (0.0052s latency).
+All 1000 scanned ports on dh101-v19.ad.stetson.edu (10.50.24.211) are open|filtered
+
+Nmap scan report for 10.50.24.215
+Host is up (0.0064s latency).
+All 1000 scanned ports on 10.50.24.215 are open|filtered
+
+Nmap scan report for dh101-v16.ad.stetson.edu (10.50.24.216)
+Host is up (0.0066s latency).
+All 1000 scanned ports on dh101-v16.ad.stetson.edu (10.50.24.216) are open|filtered
+
+Nmap scan report for 10.50.24.217
+Host is up (0.0060s latency).
+All 1000 scanned ports on 10.50.24.217 are open|filtered
+
+Nmap scan report for 10.50.24.220
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.24.220 are open|filtered
+
+Nmap scan report for 10.50.24.253
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.24.253 are open|filtered
+
+Nmap scan report for 10.50.24.254
+Host is up (0.028s latency).
+All 1000 scanned ports on 10.50.24.254 are open|filtered
+
+Nmap scan report for 10.50.25.1
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.25.1 are open|filtered
+
+Nmap scan report for 10.50.30.253
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.30.253 are open|filtered
+
+Nmap scan report for 10.50.30.254
+Host is up (0.0069s latency).
+All 1000 scanned ports on 10.50.30.254 are open|filtered
+
+Nmap scan report for 10.50.31.1
+Host is up (0.0050s latency).
+All 1000 scanned ports on 10.50.31.1 are open|filtered
+
+Nmap scan report for 10.50.31.3
+Host is up (0.0060s latency).
+All 1000 scanned ports on 10.50.31.3 are open|filtered
+
+Nmap scan report for 10.50.31.4
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.31.4 are open|filtered
+
+Nmap scan report for 10.50.31.5
+Host is up (0.0066s latency).
+All 1000 scanned ports on 10.50.31.5 are open|filtered
+
+Nmap scan report for 10.50.31.6
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.31.6 are open|filtered
+
+Nmap scan report for 10.50.31.7
+Host is up (0.0052s latency).
+All 1000 scanned ports on 10.50.31.7 are open|filtered
+
+Nmap scan report for 10.50.31.8
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.31.8 are open|filtered
+
+Nmap scan report for 10.50.31.9
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.31.9 are open|filtered
+
+Nmap scan report for 10.50.31.10
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.50.31.10 are open|filtered
+
+Nmap scan report for 10.50.31.11
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.50.31.11 are open|filtered
+
+Nmap scan report for 10.50.31.12
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.31.12 are open|filtered
+
+Nmap scan report for 10.50.31.13
+Host is up (0.0072s latency).
+All 1000 scanned ports on 10.50.31.13 are open|filtered
+
+Nmap scan report for 10.50.31.14
+Host is up (0.0070s latency).
+All 1000 scanned ports on 10.50.31.14 are open|filtered
+
+Nmap scan report for 10.50.31.15
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.31.15 are open|filtered
+
+Nmap scan report for 10.50.31.16
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.50.31.16 are open|filtered
+
+Nmap scan report for 10.50.31.17
+Host is up (0.011s latency).
+All 1000 scanned ports on 10.50.31.17 are open|filtered
+
+Nmap scan report for 10.50.31.18
+Host is up (0.12s latency).
+All 1000 scanned ports on 10.50.31.18 are open|filtered
+
+Nmap scan report for 10.50.31.19
+Host is up (0.0067s latency).
+All 1000 scanned ports on 10.50.31.19 are open|filtered
+
+Nmap scan report for 10.50.31.20
+Host is up (0.0064s latency).
+All 1000 scanned ports on 10.50.31.20 are open|filtered
+
+Nmap scan report for 10.50.31.21
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.31.21 are open|filtered
+
+Nmap scan report for 10.50.31.22
+Host is up (0.0042s latency).
+All 1000 scanned ports on 10.50.31.22 are open|filtered
+
+Nmap scan report for 10.50.31.23
+Host is up (0.0076s latency).
+All 1000 scanned ports on 10.50.31.23 are open|filtered
+
+Nmap scan report for 10.50.31.24
+Host is up (0.0086s latency).
+All 1000 scanned ports on 10.50.31.24 are open|filtered
+
+Nmap scan report for 10.50.31.25
+Host is up (0.014s latency).
+All 1000 scanned ports on 10.50.31.25 are open|filtered
+
+Nmap scan report for 10.50.31.26
+Host is up (0.0047s latency).
+All 1000 scanned ports on 10.50.31.26 are open|filtered
+
+Nmap scan report for 10.50.31.129
+Host is up (0.0057s latency).
+All 1000 scanned ports on 10.50.31.129 are open|filtered
+
+Nmap scan report for 10.50.31.252
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.50.31.252 are open|filtered
+
+Nmap scan report for 10.50.31.254
+Host is up (0.0069s latency).
+All 1000 scanned ports on 10.50.31.254 are open|filtered
+
+Nmap scan report for lpos.ad.stetson.edu (10.50.40.1)
+Host is up (0.0033s latency).
+All 1000 scanned ports on lpos.ad.stetson.edu (10.50.40.1) are open|filtered
+
+Nmap scan report for 10.50.40.4
+Host is up (0.12s latency).
+All 1000 scanned ports on 10.50.40.4 are open|filtered
+
+Nmap scan report for 10.50.40.5
+Host is up (0.11s latency).
+All 1000 scanned ports on 10.50.40.5 are open|filtered
+
+Nmap scan report for 10.50.40.6
+Host is up (0.0055s latency).
+All 1000 scanned ports on 10.50.40.6 are open|filtered
+
+Nmap scan report for 10.50.40.7
+Host is up (0.0074s latency).
+All 1000 scanned ports on 10.50.40.7 are open|filtered
+
+Nmap scan report for 10.50.40.8
+Host is up (0.0089s latency).
+All 1000 scanned ports on 10.50.40.8 are open|filtered
+
+Nmap scan report for 10.50.40.16
+Host is up (0.0084s latency).
+All 1000 scanned ports on 10.50.40.16 are open|filtered
+
+Nmap scan report for 10.50.40.17
+Host is up (0.11s latency).
+All 1000 scanned ports on 10.50.40.17 are open|filtered
+
+Nmap scan report for 10.50.40.26
+Host is up (0.083s latency).
+All 1000 scanned ports on 10.50.40.26 are open|filtered
+
+Nmap scan report for 10.50.40.27
+Host is up (0.049s latency).
+All 1000 scanned ports on 10.50.40.27 are open|filtered
+
+Nmap scan report for 10.50.40.28
+Host is up (0.014s latency).
+All 1000 scanned ports on 10.50.40.28 are open|filtered
+
+Nmap scan report for 10.50.40.29
+Host is up (0.0097s latency).
+All 1000 scanned ports on 10.50.40.29 are open|filtered
+
+Nmap scan report for 10.50.40.30
+Host is up (0.17s latency).
+All 1000 scanned ports on 10.50.40.30 are open|filtered
+
+Nmap scan report for 10.50.40.31
+Host is up (0.014s latency).
+All 1000 scanned ports on 10.50.40.31 are open|filtered
+
+Nmap scan report for 10.50.40.32
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.50.40.32 are open|filtered
+
+Nmap scan report for 10.50.40.33
+Host is up (0.088s latency).
+All 1000 scanned ports on 10.50.40.33 are open|filtered
+
+Nmap scan report for 10.50.40.34
+Host is up (0.065s latency).
+All 1000 scanned ports on 10.50.40.34 are open|filtered
+
+Nmap scan report for 10.50.40.35
+Host is up (0.0100s latency).
+All 1000 scanned ports on 10.50.40.35 are open|filtered
+
+Nmap scan report for 10.50.40.36
+Host is up (0.0097s latency).
+All 1000 scanned ports on 10.50.40.36 are open|filtered
+
+Nmap scan report for 10.50.40.37
+Host is up (0.011s latency).
+All 1000 scanned ports on 10.50.40.37 are open|filtered
+
+Nmap scan report for 10.50.40.38
+Host is up (0.058s latency).
+All 1000 scanned ports on 10.50.40.38 are open|filtered
+
+Nmap scan report for 10.50.40.39
+Host is up (0.045s latency).
+All 1000 scanned ports on 10.50.40.39 are open|filtered
+
+Nmap scan report for 10.50.40.40
+Host is up (0.0077s latency).
+All 1000 scanned ports on 10.50.40.40 are open|filtered
+
+Nmap scan report for 10.50.40.41
+Host is up (0.10s latency).
+All 1000 scanned ports on 10.50.40.41 are open|filtered
+
+Nmap scan report for 10.50.40.42
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.42 are open|filtered
+
+Nmap scan report for 10.50.40.43
+Host is up (0.014s latency).
+All 1000 scanned ports on 10.50.40.43 are open|filtered
+
+Nmap scan report for 10.50.40.44
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.44 are open|filtered
+
+Nmap scan report for 10.50.40.45
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.50.40.45 are open|filtered
+
+Nmap scan report for 10.50.40.46
+Host is up (0.015s latency).
+All 1000 scanned ports on 10.50.40.46 are open|filtered
+
+Nmap scan report for 10.50.40.47
+Host is up (0.20s latency).
+All 1000 scanned ports on 10.50.40.47 are open|filtered
+
+Nmap scan report for 10.50.40.48
+Host is up (0.20s latency).
+All 1000 scanned ports on 10.50.40.48 are open|filtered
+
+Nmap scan report for 10.50.40.49
+Host is up (0.15s latency).
+All 1000 scanned ports on 10.50.40.49 are open|filtered
+
+Nmap scan report for 10.50.40.50
+Host is up (0.15s latency).
+All 1000 scanned ports on 10.50.40.50 are open|filtered
+
+Nmap scan report for 10.50.40.52
+Host is up (0.038s latency).
+All 1000 scanned ports on 10.50.40.52 are open|filtered
+
+Nmap scan report for 10.50.40.58
+Host is up (0.032s latency).
+All 1000 scanned ports on 10.50.40.58 are open|filtered
+
+Nmap scan report for 10.50.40.59
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.59 are open|filtered
+
+Nmap scan report for 10.50.40.60
+Host is up (0.11s latency).
+All 1000 scanned ports on 10.50.40.60 are open|filtered
+
+Nmap scan report for 10.50.40.66
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.40.66 are open|filtered
+
+Nmap scan report for 10.50.40.67
+Host is up (0.0035s latency).
+All 1000 scanned ports on 10.50.40.67 are open|filtered
+
+Nmap scan report for 10.50.40.68
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.50.40.68 are open|filtered
+
+Nmap scan report for 10.50.40.69
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.50.40.69 are open|filtered
+
+Nmap scan report for 10.50.40.70
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.50.40.70 are open|filtered
+
+Nmap scan report for 10.50.40.71
+Host is up (0.0034s latency).
+All 1000 scanned ports on 10.50.40.71 are open|filtered
+
+Nmap scan report for 10.50.40.78
+Host is up (0.0045s latency).
+All 1000 scanned ports on 10.50.40.78 are open|filtered
+
+Nmap scan report for 10.50.40.79
+Host is up (0.20s latency).
+All 1000 scanned ports on 10.50.40.79 are open|filtered
+
+Nmap scan report for 10.50.40.80
+Host is up (0.038s latency).
+All 1000 scanned ports on 10.50.40.80 are open|filtered
+
+Nmap scan report for 10.50.40.81
+Host is up (0.040s latency).
+All 1000 scanned ports on 10.50.40.81 are open|filtered
+
+Nmap scan report for 10.50.40.82
+Host is up (0.011s latency).
+All 1000 scanned ports on 10.50.40.82 are open|filtered
+
+Nmap scan report for 10.50.40.83
+Host is up (0.085s latency).
+All 1000 scanned ports on 10.50.40.83 are open|filtered
+
+Nmap scan report for 10.50.40.84
+Host is up (0.039s latency).
+All 1000 scanned ports on 10.50.40.84 are open|filtered
+
+Nmap scan report for 10.50.40.85
+Host is up (0.039s latency).
+All 1000 scanned ports on 10.50.40.85 are open|filtered
+
+Nmap scan report for 10.50.40.86
+Host is up (0.038s latency).
+All 1000 scanned ports on 10.50.40.86 are open|filtered
+
+Nmap scan report for 10.50.40.87
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.87 are open|filtered
+
+Nmap scan report for 10.50.40.88
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.40.88 are open|filtered
+
+Nmap scan report for 10.50.40.89
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.89 are open|filtered
+
+Nmap scan report for 10.50.40.90
+Host is up (0.0065s latency).
+All 1000 scanned ports on 10.50.40.90 are open|filtered
+
+Nmap scan report for 10.50.40.91
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.50.40.91 are open|filtered
+
+Nmap scan report for 10.50.40.92
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.50.40.92 are open|filtered
+
+Nmap scan report for 10.50.40.93
+Host is up (0.0059s latency).
+All 1000 scanned ports on 10.50.40.93 are open|filtered
+
+Nmap scan report for 10.50.40.106
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.50.40.106 are open|filtered
+
+Nmap scan report for 10.50.40.107
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.50.40.107 are open|filtered
+
+Nmap scan report for 10.50.40.108
+Host is up (0.0098s latency).
+All 1000 scanned ports on 10.50.40.108 are open|filtered
+

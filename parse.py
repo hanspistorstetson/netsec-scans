@@ -1,7 +1,10 @@
 import sys
 import re
+import pprint
+from collections import defaultdict
 
 ips = set()
+port_ip = defaultdict(lambda: [])
 
 with open('scans/tcpsyn.scan') as f:
     current_ip = None
@@ -12,9 +15,12 @@ with open('scans/tcpsyn.scan') as f:
             test = re.findall(r'[\d]+', line)
             if len(test) == 1:
                 port = int(test[0])
+                port_ip[port].append(current_ip)
                 if (port > 1023):
                     ips.add(current_ip)
 
 
 for ip in ips:
     print(ip)
+
+pprint.pprint(port_ip)

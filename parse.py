@@ -2,6 +2,7 @@ import sys
 import re
 import pprint
 from collections import defaultdict
+from collections import OrderedDict
 
 ips = set()
 port_ip = defaultdict(lambda: [])
@@ -20,7 +21,13 @@ with open('scans/tcpsyn.scan') as f:
                     ips.add(current_ip)
 
 
-for ip in ips:
-    print(ip)
 
-pprint.pprint(port_ip)
+wiki_code = ""
+for port in sorted(port_ip.keys()):
+    wiki_code += '<div class="tocolours mw-collapsible mw-collapsed">\n'
+    wiki_code += 'Port ' + str(port) + '\n<div class="mw-collapsible-content">\n'
+    for ip in port_ip[port]:
+        wiki_code += str(ip) + "\n"
+    wiki_code += "</div>\n</div>\n"
+
+print(wiki_code)
